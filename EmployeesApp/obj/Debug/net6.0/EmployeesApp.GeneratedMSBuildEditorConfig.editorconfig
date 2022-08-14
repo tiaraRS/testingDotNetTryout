@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeesApp
 build_property.RootNamespace = EmployeesApp
-build_property.ProjectDir = C:\TIARA\UNIVERSIDAD\SEMESTRE 8\TALLER DE DESARROLLO DE SW\TAREAS\testingTutorial\testing-aspnetcore-mvc\StartingProject\EmployeesApp\EmployeesApp\
+build_property.ProjectDir = C:\TIARA\UNIVERSIDAD\SEMESTRE 8\TALLER DE DESARROLLO DE SW\TAREAS\actions\EmployeesApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\TIARA\UNIVERSIDAD\SEMESTRE 8\TALLER DE DESARROLLO DE SW\TAREAS\testingTutorial\testing-aspnetcore-mvc\StartingProject\EmployeesApp\EmployeesApp
+build_property.MSBuildProjectDirectory = C:\TIARA\UNIVERSIDAD\SEMESTRE 8\TALLER DE DESARROLLO DE SW\TAREAS\actions\EmployeesApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/Employees/Create.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/Employees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/Employees/Index.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/Shared/Error.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/_ViewImports.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/_ViewStart.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/testingTutorial/testing-aspnetcore-mvc/StartingProject/EmployeesApp/EmployeesApp/Views/Shared/_Layout.cshtml]
+[C:/TIARA/UNIVERSIDAD/SEMESTRE 8/TALLER DE DESARROLLO DE SW/TAREAS/actions/EmployeesApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zh8e5ycytn

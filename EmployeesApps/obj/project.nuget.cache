@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQZoLOi8267PLWv4rxZNM/mb6xxN3C3ZCGWkUWHbvZyVWNRBRq+/7mfE7qx6aCKKfaWJEwVDDh4ssRrZJ3O8Nw==",
+  "dgSpecHash": "N2Y9SLg7q6JvWYEVH1JOXfsBG1Kh84t0HQUzSPTfg2rDk2Iic2Ttcim0QF5MR77udatEwzTebKjylq1Z131m4g==",
   "success": true,
-  "projectFilePath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\testingTutorial\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApps\\EmployeesApps.csproj",
+  "projectFilePath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\actions\\EmployeesApps\\EmployeesApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inav2\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\inav2\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

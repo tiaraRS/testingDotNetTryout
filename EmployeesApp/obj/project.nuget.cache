@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLCGPRyGl/HyrPVMSSAR+0RIhqF/jEmWiJVOpJorKl6wTNkuiqWcs0LdIwG6617PKr6ZYqPrEpgcqTDPD3yb3A==",
+  "dgSpecHash": "jUOMFRQvGqiGJsTcfstrU8U8+Yl5yCtzhGitnheAiHIRHiil4S2VF1tZcOji2B51LNL1Xr6yqCW50lVsfW7waw==",
   "success": true,
-  "projectFilePath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\testingTutorial\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+  "projectFilePath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\actions\\EmployeesApp\\EmployeesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inav2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\inav2\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

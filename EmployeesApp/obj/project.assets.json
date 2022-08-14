@@ -9537,11 +9537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\testingTutorial\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+      "projectUniqueName": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\actions\\EmployeesApp\\EmployeesApp.csproj",
       "projectName": "EmployeesApp",
-      "projectPath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\testingTutorial\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+      "projectPath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\actions\\EmployeesApp\\EmployeesApp.csproj",
       "packagesPath": "C:\\Users\\inav2\\.nuget\\packages\\",
-      "outputPath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\testingTutorial\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\obj\\",
+      "outputPath": "C:\\TIARA\\UNIVERSIDAD\\SEMESTRE 8\\TALLER DE DESARROLLO DE SW\\TAREAS\\actions\\EmployeesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
